@@ -1,2 +1,2 @@
-# Devops_Learn
+# Learn_Devops
 Created to practice Devops
